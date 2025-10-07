@@ -26,12 +26,21 @@
 
 ---
 
-### 🔬 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🦺 **PPE Detection System** | Real-time detection of safety gear using YOLOv8 & OpenCV | Python, YOLOv8, OpenCV, Tkinter |
-| 🚗 **Car Parking Space Counter** | Detects vacant parking spaces using deep learning | Python, CNN, OpenCV |
-| 🎨 **Image Processing App** | GUI-based image editor with filters, drawing & webcam support | PyQt5, OpenCV, NumPy |
+
+### 📊 GitHub Overview & Activity
+
+<p align="center">
+  <a href="https://github.com/SayabArshad?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SayabArshad&theme=tokyonight" height="150" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SayabArshad&theme=tokyonight" height="150" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SayabArshad?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayabArshad&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -59,8 +68,8 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:sayabarshad789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sayab-arshad-soduzai2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sayabarshad789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/sayab-arshad-soduzai-6138a1252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/SayabArshad"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
